@@ -1,4 +1,4 @@
-**README - Projet Chargement d'Entrepôt de Données**
+**README - Projet Entrepôt de Données de VENTE EN LIGNE**
 
 Ce projet vise à mettre en place un entrepôt de données pour une société de vente en ligne de produits alimentaires, permettant l'analyse des ventes et des clients. Il comprend la création d'un schéma en étoile sous Oracle et la mise en place d'un processus ETL pour charger les données initiales et les mettre à jour régulièrement.
 
