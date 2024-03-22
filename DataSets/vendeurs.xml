@@ -1,0 +1,13 @@
+<?xml version="1.0"  encoding="ISO-8859-1"?>
+<vendeurs>
+    <vendeur nom="David Demede" age="35" situation="Célibataire" salaire="2100"/>
+	<vendeur nom="Milo Totrode" age="45" situation="Marié 2 enfants" salaire="3512"/>
+	<vendeur nom="Claire Coubranney" age="34" situation="Célibataire" salaire="2400"/>
+    <vendeur nom="Lisa Toramde" age="27" situation="Marié 1 enfant" salaire="2254"/>
+	<vendeur nom="Gregory Deramche" age="56" situation="Célibataire" salaire="3524"/>
+	<vendeur nom="William Tovandane" age="29" situation="Marié 2 enfants" salaire="1800"/>
+    <vendeur nom="Benjamin Verramle" age="24" situation="Célibataire" salaire="1900"/>
+	<vendeur nom="David Cedarre" age="36" situation="Marié 1 enfant" salaire="2150"/>
+	<vendeur nom="Karl Mastrole" age="46" situation="Célibataire" salaire="2000"/>
+    <vendeur nom="Benjamin Sormordouard" age="52" situation="Marié" salaire="2600"/>		
+</vendeurs>

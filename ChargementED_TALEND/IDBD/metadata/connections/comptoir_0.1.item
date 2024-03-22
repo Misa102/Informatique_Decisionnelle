@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_Mr8jYOISEe6aFZ6KnasC_g" name="comptoir" id="_BFW6wOISEe6aFZ6KnasC_g" label="comptoir" dataPackage="_1TKaoOK3Ee6aFZ6KnasC_g" DatabaseType="SQLite" DriverClass="org.sqlite.JDBC" URL="jdbc:sqlite:/c:/m1_s2/idbd/tp1/tp_data/idbd/comptoir.db" Port="" Username="" Password="" ServerName="" DatasourceName="" FileFieldName="C:/M1_S2/IDBD/TP1/TP_DATA/IDBD/comptoir.db" SID="" SqlSynthax="" StringQuote="" NullChar="" DbmsId="sqlite_id" ProductId="SQLITE" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_Mr8jYeISEe6aFZ6KnasC_g" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_MsadcOISEe6aFZ6KnasC_g" tag="package filter" value=""/>
+    <taggedValue xmi:id="_MsadceISEe6aFZ6KnasC_g" tag="Status" value=""/>
+    <taggedValue xmi:id="_MsadcuISEe6aFZ6KnasC_g" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_Msadc-ISEe6aFZ6KnasC_g" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_MsaddOISEe6aFZ6KnasC_g" tag="Description" value=""/>
+    <taggedValue xmi:id="_MsaddeISEe6aFZ6KnasC_g" tag="Author" value=""/>
+    <taggedValue xmi:id="_MsadduISEe6aFZ6KnasC_g" tag="otherParameter"/>
+    <taggedValue xmi:id="_OtSwEOISEe6aFZ6KnasC_g" tag="DB ProductName" value="SQLite"/>
+    <taggedValue xmi:id="_OtSwEeISEe6aFZ6KnasC_g" tag="DB ProductVersion" value="3.6.14.2"/>
+    <taggedValue xmi:id="_OtSwEuISEe6aFZ6KnasC_g" tag="DB IdentifierQuoteString" value=" "/>
+    <parameters xmi:id="_Mr8jYuISEe6aFZ6KnasC_g" key="CONN_PARA_KEY_USERNAME" value=""/>
+    <parameters xmi:id="_RKn4sOITEe6aFZ6KnasC_g" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_1TKaoOK3Ee6aFZ6KnasC_g" name=" " dataManager="_Mr8jYOISEe6aFZ6KnasC_g"/>
+</xmi:XMI>

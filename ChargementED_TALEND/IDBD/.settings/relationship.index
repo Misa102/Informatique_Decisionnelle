@@ -1,0 +1,67 @@
+[ {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DemoRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GetRandomPhoneNum",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "SQLike",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_VQR78OISEe6aFZ6KnasC_g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_BFW6wOISEe6aFZ6KnasC_g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_MtdoIOa5Ee6mQZK7J-bhnA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ghC98OK0Ee6aFZ6KnasC_g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_yvKGsOIQEe6aFZ6KnasC_g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_MtdoIOa5Ee6mQZK7J-bhnA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_ghC98OK0Ee6aFZ6KnasC_g - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
